@@ -4,3 +4,6 @@ More scripts to come, hopefully this will be a place to reference in the future
 
 Check out the associated blog post for context related to the fastest image
 http://www.acgeospatial.co.uk/fastest-image-python/
+
+Associated blog post for context related to Shapefiles on the computer
+http://www.acgeospatial.co.uk/how-many-shapefiles-on-my-computer/
