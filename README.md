@@ -8,4 +8,5 @@ http://www.acgeospatial.co.uk/fastest-image-python/
 2. Associated blog post for context related to Shapefiles on the computer
 http://www.acgeospatial.co.uk/how-many-shapefiles-on-my-computer/
 
-3. Associated blog on rasterstats is coming soon!
+3. Associated blog on rasterstats is here
+http://www.acgeospatial.co.uk/image-reducer-in-python/
