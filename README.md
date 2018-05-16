@@ -10,3 +10,6 @@ http://www.acgeospatial.co.uk/how-many-shapefiles-on-my-computer/
 
 3. Associated blog on rasterstats is here
 http://www.acgeospatial.co.uk/image-reducer-in-python/
+
+4. Associated blog on OpenCV and Leaflet is here
+http://www.acgeospatial.co.uk/opencv-and-leaflet-web-mapping/
