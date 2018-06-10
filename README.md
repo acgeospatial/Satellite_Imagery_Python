@@ -13,3 +13,6 @@ http://www.acgeospatial.co.uk/image-reducer-in-python/
 
 4. Associated blog on OpenCV and Leaflet is here
 http://www.acgeospatial.co.uk/opencv-and-leaflet-web-mapping/
+
+5. Associated blog on GeoPandas and Jupyter notebooks is here
+http://www.acgeospatial.co.uk/geopandas-shapefiles-jupyter/
