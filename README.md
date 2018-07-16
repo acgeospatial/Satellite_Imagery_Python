@@ -16,3 +16,6 @@ http://www.acgeospatial.co.uk/opencv-and-leaflet-web-mapping/
 
 5. Associated blog on GeoPandas and Jupyter notebooks is here
 http://www.acgeospatial.co.uk/geopandas-shapefiles-jupyter/
+
+6. Associated blog on Unsupervised classification with Python and Sentinel 2 is here
+http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
