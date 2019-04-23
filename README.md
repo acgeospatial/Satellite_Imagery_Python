@@ -19,3 +19,5 @@ http://www.acgeospatial.co.uk/geopandas-shapefiles-jupyter/
 
 6. Associated blog on Unsupervised classification with Python and Sentinel 2 is here
 http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
+
+7. Associated blog on sentinelsat (downloading Sentinel 2 images using Python) is here soon!
