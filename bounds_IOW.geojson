@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "bounds_IOW",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -1.590479141256104, 50.773878440323273 ], [ -1.581948561833396, 50.537118756976575 ], [ -1.003764845405393, 50.535311438931828 ], [ -1.010399740511943, 50.775676602250925 ], [ -1.590479141256104, 50.773878440323273 ] ] ] } }
+]
+}
