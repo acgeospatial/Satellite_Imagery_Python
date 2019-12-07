@@ -22,3 +22,5 @@ http://www.acgeospatial.co.uk/k-means-sentinel-2-python/
 
 7. Associated blog on sentinelsat (downloading Sentinel 2 images using Python) is here 
 http://www.acgeospatial.co.uk/sentinelsat_demo/
+
+8. Associated blog on plotting rasters and vectors and clipping is coming very soon!
