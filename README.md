@@ -25,3 +25,6 @@ http://www.acgeospatial.co.uk/sentinelsat_demo/
 
 8. Associated blog on plotting rasters and vectors and clipping is here
 http://www.acgeospatial.co.uk/simple-plotting/
+
+9. Associated blog on COG and clipping a Landsat 8 image and downloading (& plotting)
+http://www.acgeospatial.co.uk/cog-part-2-python/
