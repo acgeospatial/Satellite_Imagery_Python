@@ -28,3 +28,6 @@ http://www.acgeospatial.co.uk/simple-plotting/
 
 9. Associated blog on COG and clipping a Landsat 8 image and downloading (& plotting)
 http://www.acgeospatial.co.uk/cog-part-2-python/
+
+10. Associated blog on discrete plotting rasters
+http://www.acgeospatial.co.uk/colour-bar-for-discrete-rasters-with-matplotlib/
