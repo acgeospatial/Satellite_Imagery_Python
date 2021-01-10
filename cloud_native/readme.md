@@ -1,1 +1,3 @@
-Holding file for series of posts on cloud native Geospatial
+This folder contains a series of notebooks on STAC and COG
+
+It was built in Jan 2021
