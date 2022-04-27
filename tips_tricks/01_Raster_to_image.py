@@ -9,7 +9,7 @@ def main(raster_file):
     """
     with rasterio.open(raster_file) as src:
         data = src.read() # gets ALL the data
-        single_band = data[0] # gets the first band OR src.read(1
+        single_band = data[0] # gets the first band OR src.read(1)
 
     print (f'Normally expect this shape from rasterio: {data.shape}')
     # https://rasterio.readthedocs.io/en/latest/topics/image_processing.html
